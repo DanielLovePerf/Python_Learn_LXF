@@ -66,3 +66,4 @@ print(isinstance({}, Iterator)) # False
 print(isinstance(iter('abc'), Iterator)) # True
 print(isinstance(iter({}), Iterator)) # True
 
+
